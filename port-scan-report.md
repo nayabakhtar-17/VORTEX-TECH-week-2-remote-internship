@@ -53,4 +53,3 @@ Second, open ports reveal which services are running on a computer. Attackers of
 
 
 
-This report is tailored to the Nmap output shown in your screenshot and is appropriate for your internship submission.
